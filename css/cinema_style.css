@@ -1,0 +1,11 @@
+h1 {
+	color: #DAA520;
+	font-family: roboto;
+	font-weight: 900;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 3px rgba(0,0,0,0.5);	
+}	
+
+h2 {
+	text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}	
